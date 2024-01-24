@@ -73,7 +73,7 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/COD/20231216_181141.jpg">
 
 [Back to top](#Index)
 
