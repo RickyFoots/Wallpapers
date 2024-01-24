@@ -73,7 +73,11 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/00185.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/00187.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/00199.png">
 
 [Back to top](#Index)
 
