@@ -73,7 +73,9 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Seasonal/Halloween/20231030_173302.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Seasonal/Halloween/here-comes-mr-pumpkin.jpg">
 
 [Back to top](#Index)
 

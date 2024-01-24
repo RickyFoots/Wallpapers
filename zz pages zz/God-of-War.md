@@ -73,7 +73,7 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/God%20of%20War/Kratos-gow-red.jpg">
 
 [Back to top](#Index)
 
