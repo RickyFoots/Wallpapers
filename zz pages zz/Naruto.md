@@ -73,7 +73,7 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/Naruto/nord_naruto_2.png">
 
 [Back to top](#Index)
 
