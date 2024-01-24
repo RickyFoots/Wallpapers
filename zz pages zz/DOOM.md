@@ -73,7 +73,9 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/DOOM/20221018_2310_The_takeover_has_begun.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/DOOM/index%20(2).png">
 
 [Back to top](#Index)
 
