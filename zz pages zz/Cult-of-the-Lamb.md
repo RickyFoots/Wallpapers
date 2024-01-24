@@ -73,7 +73,7 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/Cult%20of%20the%20Lamb/00384.png">
 
 [Back to top](#Index)
 
