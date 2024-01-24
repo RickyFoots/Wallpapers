@@ -73,7 +73,9 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/RDT_20220724_1310174062830903243881266.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/live.jpg">
 
 [Back to top](#Index)
 
