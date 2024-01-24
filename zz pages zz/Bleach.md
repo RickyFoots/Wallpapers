@@ -73,7 +73,9 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/Bleach/1CzsXnD.jpeg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/Bleach/70%20-%20oyrjonH.jpg">
 
 [Back to top](#Index)
 
