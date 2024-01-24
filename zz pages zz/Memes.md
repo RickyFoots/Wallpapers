@@ -73,7 +73,11 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Memes/1656958851808.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Memes/Labor_Wave.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Memes/carlo-montie-fa-pink-guy-01-s.png">
 
 [Back to top](#Index)
 
