@@ -73,7 +73,23 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/Manicminotaur.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch-chan_to.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch-eagle.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch-nord-dark.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch-nord-light.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch00.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/arch_purple.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/awesome.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Linux/catppuccin-rainbow-arch.png">
 
 [Back to top](#Index)
 
