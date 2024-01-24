@@ -73,11 +73,11 @@
 
 </h1>
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Cellphone_Black_Bulls.jpg
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Cellphone_Black_Bulls.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Cellphone_Golden_Dawn.jpg
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Cellphone_Golden_Dawn.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Minimal_Black_Bulls.jpg
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Black Clover/Minimal_Black_Bulls.jpg">
 
 [Back to top](#Index)
 
