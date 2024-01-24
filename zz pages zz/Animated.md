@@ -73,7 +73,33 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/28a1e36191eb43fae5347624b17edf10.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/3512803(1).gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/4.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/anime-school-girl-watching-the-sky-at-the-train-station-moewalls-com.mp4">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/berserk-manga-eclipse-moewalls-com.mp4">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/box.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/breathe.mp4">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/c03628e7339e0d492cdd077acb6a9e8f.gif.4b63ca2ca677631f5c35f11c00ecf8b4.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/city.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/ezgif-1-66eeb45a6b.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/fireplace.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/hawthorn.mp4">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/moon.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/sailor-moon-window.gif">
 
 [Back to top](#Index)
 
