@@ -131,7 +131,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1914_Burning_in_the_rain.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1916_Imago,_final_Part..jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1916_Imago,_final_Part.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1917_Sekiro._The_High_temple_.jpg">
 
@@ -217,7 +217,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20230309_2316_Elysium___Decurio_Infernalis.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20230402_2313_強化骨格：GOOD_FOR_HEALTH.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20230402_2313_強化骨格GOOD_FOR_HEALTH.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20230716_1924_Through_My_Eyes.jpg">
 
