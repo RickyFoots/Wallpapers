@@ -191,5 +191,45 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220605_2252_The_Last_Great_Ahamkara.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_横版藏式概念.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_2🎱🔥🎱.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2132_Emerged_from_Flames.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2142_Find_me_here.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230322_1239_Japan_memories_🐰___Painting___Part_1_.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230515_222411.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230519_2334_wandering_whale_.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230712_2223_2023.5.24.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230716_1918_Ramen_on_Crab.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231028_1437_回魂夜_Ghost_hunter.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231106_2020_Practice_41.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231122_2259_202310_Background_photo_speed_painting.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1835_3.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1838_V_me50….jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231211_2026_sunset.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231211_2027_The_spirit_of_the_forest.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231218_201830.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/21 - ADsm8lL.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/21.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/23.jpg">
+
 [Back to top](#Index)
 
