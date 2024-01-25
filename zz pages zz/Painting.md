@@ -187,11 +187,11 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220427_2307_Virtual_Plein_Air_Studies.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220523_1613_Seabreeze_#03.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220523_1613_Seabreeze_03.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220605_2252_The_Last_Great_Ahamkara.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_横版藏式概念.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_#2🎱🔥🎱.jpg">
 
