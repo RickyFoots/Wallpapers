@@ -169,5 +169,27 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20210817_004904.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220329_2038_GGAC_Discovery_Station_NO.1——_Explorer”.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220329_2038_The_Aeneid.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220404_2100_Do_not_disturb.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220404_2100_The_Observer.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220407_1454_Como_Lighthouse_02__Backgrounds_For_Animation_Course.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220416_1756_Japan.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220427_2307_Badlands_National_Park_Study.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220427_2307_Death_Valley_National_Park.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220427_2307_Virtual_Plein_Air_Studies.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220523_1613_Seabreeze_#03.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220605_2252_The_Last_Great_Ahamkara.jpg">
+
 [Back to top](#Index)
 
