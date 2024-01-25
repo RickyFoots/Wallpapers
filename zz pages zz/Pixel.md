@@ -107,15 +107,9 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-mountainblue-pf.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-spirited-asway-1.gif">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-spirited-asway-1.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/monochrome9.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/mukai-kof-2003.gif">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/noon_colored_pixelated.gif">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-art-city.png">
 
