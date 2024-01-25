@@ -113,9 +113,9 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220329_2059_Sunflower_farmers.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220404_2049_Back_To_Yharnam_(_Inspirated_by_Bloodborne_)_.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220404_2049_Back_To_Yharnam_.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220405_2316_Yoshimaru,_Ever_Faithful.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220405_2316_Yoshimaru_Ever_Faithful.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220407_1612_Sun_Knight.jpg">
 
@@ -127,7 +127,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220422_1842_深渊行者_concept.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1912_THE_WITCHER__WITCH'S_LAMENT_#4_(_official_cover_).jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1912_THE_WITCHER__WITCH'S_LAMENT_4_(_official_cover_).jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220425_1914_Burning_in_the_rain.jpg">
 
@@ -181,7 +181,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220612_1749_Magnolia_Raven.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220626_2159_Love,_Death_&_Robots_Season_3爱死机3.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220626_2159_Love,_Death_&_Robots_Season_爱死机.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20220628_231005.jpg">
 
@@ -221,7 +221,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20230716_1924_Through_My_Eyes.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20231002_1139_👹_Enhanced_Skeleton___Print_💀.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20231002_1139__Enhanced_Skeleton___Print_.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Unsorted Vertical/20231009_2255_LOVE_AND_PEACE!.jpg">
 
