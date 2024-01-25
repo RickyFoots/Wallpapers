@@ -113,5 +113,11 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/retro2_live.gif">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/megalithiccat-spirited-asway-1.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/mukai-kof-2003.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/noon_colored_pixelated.gif">
+
 [Back to top](#Index)
 
