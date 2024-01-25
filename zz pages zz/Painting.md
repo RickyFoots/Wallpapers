@@ -191,15 +191,15 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220605_2252_The_Last_Great_Ahamkara.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_横版藏式概念.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_2🎱🔥🎱.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_2.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2132_Emerged_from_Flames.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2142_Find_me_here.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230322_1239_Japan_memories_🐰___Painting___Part_1_.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230322_1239_Japan_memories_Painting___Part_1_.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230515_222411.jpg">
 
@@ -209,7 +209,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20230716_1918_Ramen_on_Crab.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231028_1437_回魂夜_Ghost_hunter.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231028_1437_Ghost_hunter.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231106_2020_Practice_41.jpg">
 
@@ -217,7 +217,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1835_3.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1838_V_me50….jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1838_V_me50.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231211_2026_sunset.jpg">
 
