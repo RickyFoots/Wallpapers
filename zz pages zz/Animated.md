@@ -101,5 +101,17 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/sailor-moon-window.gif">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/yellow-forest.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/cherry-blossom.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/cherry-blossom-alt.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/dsouls.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/megalithiccat-jap-music.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/retro2_live.gif">
+
 [Back to top](#Index)
 
