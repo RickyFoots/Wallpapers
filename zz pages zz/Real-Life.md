@@ -871,7 +871,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Real Life/redflowers.png">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Real Life/relaxing-diner.jpg
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Real Life/relaxing-diner.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Real Life/retro-pc.png">
 
