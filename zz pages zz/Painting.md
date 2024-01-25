@@ -73,7 +73,91 @@
 
 </h1>
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00030.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00111.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00139.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00224.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00239.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00245.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00271.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00279.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00280.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00288.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00293.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00294.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00306.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/00355.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/01.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/02.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/03.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/04.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/05.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/06.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/06.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/07.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/07.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/08.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/08.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/10 - IkFbADX.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/10.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/11 - GdW27Qi.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/11 - hM2j0Vz.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/11.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/12 - KmFVtFp.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/12.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/13 - p4TIlyS.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/13.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/1330761.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/14 - BgotbjS.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/14 - M5yq3il.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/14.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/15.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/16.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/1638597695178.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/17.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/18.jpg">
 
 [Back to top](#Index)
 
