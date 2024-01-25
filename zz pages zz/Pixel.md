@@ -73,7 +73,85 @@
 
 </h1>
 
-<img src="">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/8bitrain.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/Pix_Coffee_Shop.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/PixelartCity.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/a-small-pond.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/bench.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/buildings.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/drones.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/elden-ring.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/gamecube.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/gods-die.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/guy_sleeping_colored.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/hld-wallpaper.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/hyperlightdrifter1.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/low-poly-fantasy-village.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-campfire.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-genshin.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-mountainblue-pf.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-spirited-asway-1.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/megalithiccat-spirited-asway-1.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/monochrome9.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/mukai-kof-2003.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/noon_colored_pixelated.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-art-city.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-blossom.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-chinatown.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-future.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel-room.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel_big_city.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel_galaxy_blue.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pixel_red_clouds.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pokemon-center.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/pokemon-pixel-4k.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/red-forrest.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/shougan_castle.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/the-last-night.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/the-ruined-gazebo.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/wake-up.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/weird-earth.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/worldmap-town.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Pixel/worldmap.png">
 
 [Back to top](#Index)
 
