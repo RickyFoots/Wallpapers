@@ -193,7 +193,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_横版藏式概念.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_#2🎱🔥🎱.jpg">
+
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2132_Emerged_from_Flames.jpg">
 
