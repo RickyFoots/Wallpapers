@@ -193,7 +193,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20220608_2339_横版藏式概念.jpg">
 
-
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221019_2324_Bawlers_#2🎱🔥🎱.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20221107_2132_Emerged_from_Flames.jpg">
 
@@ -214,64 +214,6 @@
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231106_2020_Practice_41.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231122_2259_202310_Background_photo_speed_painting.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1835_3.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231206_1838_V_me50….jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231211_2026_sunset.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231211_2027_The_spirit_of_the_forest.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/20231218_201830.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/21 - ADsm8lL.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/21.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/23.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/24 - e47ScRz.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/24.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/25.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/26.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/27.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/28 - YnL7CTg.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/28.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/29.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/30 - VvwyRE1.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/30.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/31 - CjTmQ8s.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/31 - qmiPsd0.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/31.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/32 - Es9om0f.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/32.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/33.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/34.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/37 - zZ6lun8.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/38e43cd.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/3ckrn0p4n3l71.png">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Painting/3lnurbwbfwk71.png">
 
 [Back to top](#Index)
 
