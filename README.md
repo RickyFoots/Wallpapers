@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-<h3 align="center">
+<h1 align="center">
 Wallpaper Collection
   <h5 align="center">
     My collection of wallpapers<br>
