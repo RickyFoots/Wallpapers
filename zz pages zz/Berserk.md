@@ -102,5 +102,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime %26 Manga/Berserk/rGT0dFr.jpeg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

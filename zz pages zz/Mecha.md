@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Mecha/10 - LlzdKCE.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Mecha/1646014647000.jpg">
@@ -113,5 +122,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Mecha/wallhaven_T5_Shizuka_Hoshijiro.png">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

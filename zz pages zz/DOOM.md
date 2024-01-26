@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,9 +76,15 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/DOOM/20221018_2310_The_takeover_has_begun.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/DOOM/index%20(2).png">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -70,6 +73,12 @@
   - [Starfield](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Starfield.md)
   - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Wayfinder.md)
   - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Witcher.md)
+
+</h1>
+
+[Back to top](#Top)
+
+</details>
 
 </h1>
 
@@ -1135,5 +1144,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Real Life/yves-moret-beRoJB9vZkE-unsplash.jpg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

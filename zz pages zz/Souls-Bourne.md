@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Souls-Bourne/00108.png">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Souls-Bourne/20220404_2049_Back_To_Yharnam_(_Inspirated_by_Bloodborne_)_.jpg">
@@ -99,5 +108,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Souls-Bourne/wallhaven-e7m8zl.jpg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

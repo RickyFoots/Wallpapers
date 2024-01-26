@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/28a1e36191eb43fae5347624b17edf10.gif">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/3512803(1).gif">
@@ -119,5 +128,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Animated/noon_colored_pixelated.gif">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

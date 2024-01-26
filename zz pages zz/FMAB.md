@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/FMAB/20231212_171603.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/FMAB/20231212_171606.jpg">
@@ -81,5 +90,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Anime%20%26%20Manga/FMAB/55d1bbe2dc9c5bcbb4faa52bce7dbaa8.jpg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

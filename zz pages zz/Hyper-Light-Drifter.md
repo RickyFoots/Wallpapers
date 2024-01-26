@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/Hyper%20Light%20Drifter/00011.png">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/Hyper%20Light%20Drifter/00012.png">
@@ -81,5 +90,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video%20Games/Hyper%20Light%20Drifter/hyperlightdrifter3.jpeg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

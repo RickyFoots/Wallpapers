@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Castlevania/20220327_1145_Castlevania.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Castlevania/20220327_1145__Castlevania__An_Odyssey_.jpg">
@@ -87,5 +96,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Video Games/Castlevania/IMG_20210522_125517.jpg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 

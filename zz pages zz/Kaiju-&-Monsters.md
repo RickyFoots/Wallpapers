@@ -1,5 +1,8 @@
+<details>
 
-## Index
+<summary>Index</summary>
+
+## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -73,6 +76,12 @@
 
 </h1>
 
+[Back to top](#Top)
+
+</details>
+
+</h1>
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Kaiju %26 Monsters/20211130_1805_Gullinbursti_Illustration.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Kaiju %26 Monsters/20220313_1218_Akabeko_Illustration.jpg">
@@ -115,5 +124,5 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Kaiju %26 Monsters/wp9680194-kaiju-no8-wallpapers.jpg">
 
-[Back to top](#Index)
+[Back to top](#Top)
 
