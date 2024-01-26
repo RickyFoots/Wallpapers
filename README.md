@@ -22,7 +22,9 @@ Thank you<br>
 
 </h1>
 
-## Index
+<details>
+
+<summary>Index</summary>
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Waves.md)
@@ -93,6 +95,8 @@ Thank you<br>
   - [Starfield](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Starfield.md)
   - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Wayfinder.md)
   - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Witcher.md)
+
+</details>
 
 </h1>
 
