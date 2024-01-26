@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Wallpaper Collection
+#### Wallpaper Collection
   <h5 align="center">
     My collection of wallpapers<br>
   </h5>
