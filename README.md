@@ -39,6 +39,7 @@ Thank you<br>
   - [Cowboy BeBop](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Cowboy-BeBop.md)
   - [Demon Slayer](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Demon-Slayer.md)
   - [Dorohedoro](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Dorohedoro.md)
+  - [Dragon Ball](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Dorohedoro.md)
   - [DRR](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/DRR.md)
   - [Edge Runners](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Edge-Runners.md)
   - [Eva](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Eva.md)
@@ -93,6 +94,7 @@ Thank you<br>
   - [Souls-Bourne](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Souls-Bourne.md)
   - [Stardew](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Stardew.md)
   - [Starfield](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Starfield.md)
+  - [Ultrakill](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Ultrakill.md)
   - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Wayfinder.md)
   - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/zz%20pages%20zz/Witcher.md)
 
