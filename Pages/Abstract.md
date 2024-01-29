@@ -146,4 +146,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/whale.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Painted-Smile.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Burning-Smile.png">
+
 [Back to top](#Top)
