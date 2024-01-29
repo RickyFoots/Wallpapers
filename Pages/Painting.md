@@ -804,4 +804,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/yhaucvz246161.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Lighthouse_by_the_ocean.jpg">
+
 [Back to top](#Top)
