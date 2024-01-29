@@ -1,6 +1,6 @@
 ## Ultrakill
 
-[Back to Home](https://github.com/RickyFoots/Wallpapers/tree/main/Collection)
+[Back to Home](https://github.com/RickyFoots/Wallpapers/tree/main)
 
 </h1>
 
