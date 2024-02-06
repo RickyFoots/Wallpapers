@@ -806,4 +806,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Lighthouse_by_the_ocean.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept620-2c.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept623d.jpg">
+
 [Back to top](#Top)

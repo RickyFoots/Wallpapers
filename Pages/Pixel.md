@@ -78,4 +78,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/worldmap.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/kanistra-studio-20-workplace1.png">
+
 [Back to top](#Top)
