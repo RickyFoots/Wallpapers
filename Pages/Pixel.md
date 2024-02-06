@@ -18,8 +18,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/drones.png">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/elden-ring.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/gamecube.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/gods-die.png">
