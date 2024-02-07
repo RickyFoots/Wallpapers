@@ -8,4 +8,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/DOOM/index%20(2).png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/DOOM/doom-color.jpg">
+
 [Back to top](#Top)
