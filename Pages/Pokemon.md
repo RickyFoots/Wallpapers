@@ -60,4 +60,38 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/undefined - Imgur.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Arceus.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Celebi.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Deoxys-Attack.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Deoxys-Defense.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Groudon.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Kyogre.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Latias-Latios.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Rayquaza-Sea.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Rayquaza-Sky.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Regice.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Regigigas.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Regirock.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Registeel.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Reshiram.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Suicune.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Yvetal.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Zekrom.png">
+
 [Back to top](#Top)

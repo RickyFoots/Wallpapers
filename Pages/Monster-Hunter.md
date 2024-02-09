@@ -48,4 +48,10 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Monster Hunter/mh2.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Monster Hunter/Blue-Pickel.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Monster Hunter/Zinogre.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Monster Hunter/Amatsu.jpg">
+
 [Back to top](#Top)

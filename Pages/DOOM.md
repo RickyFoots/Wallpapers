@@ -10,4 +10,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/DOOM/doom-color.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/DOOM/doom-catppuccin.png">
+
 [Back to top](#Top)
