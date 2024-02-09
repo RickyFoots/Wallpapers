@@ -90,7 +90,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Suicune.png">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Yvetal.png">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Yveltal.png">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Zekrom.png">
 
