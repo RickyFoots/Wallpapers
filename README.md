@@ -58,6 +58,7 @@ Thank you<br>
   - [Trigun](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Trigun.md)
   - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
 - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
+  - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
 - [Japan](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Japan.md)
 - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
 - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
