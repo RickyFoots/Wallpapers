@@ -22,4 +22,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/catppuccin-rainbow-arch.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/xfce-4.18-final.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/Xfce-4.18_leaf_mouse.png">
+
 [Back to top](#Top)
