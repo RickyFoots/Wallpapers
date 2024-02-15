@@ -1066,4 +1066,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/yves-moret-beRoJB9vZkE-unsplash.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/adam-mathieu-skull.jpg">
+
 [Back to top](#Top)
