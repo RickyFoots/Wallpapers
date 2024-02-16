@@ -124,8 +124,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/qvidibf92gx81.png">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/redgiant.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/sixarms.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/static-chart.jpg">
