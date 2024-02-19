@@ -548,10 +548,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/kien-do-uUVkzxDR1D0-unsplash.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/klim-musalimov-5kjxC9SiwH8-unsplash.jpg">
-
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/klim-musalimov-QvEG1o0YmsA-unsplash.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/kym-mackinnon-KrrVNx8R640-unsplash.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/kyoto_streets.png">

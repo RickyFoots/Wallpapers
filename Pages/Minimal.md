@@ -408,4 +408,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/FZgIjCw.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/klim-musalimov-5kjxC9SiwH8-unsplash.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/klim-musalimov-QvEG1o0YmsA-unsplash.jpg">
+
 [Back to top](#Top)
