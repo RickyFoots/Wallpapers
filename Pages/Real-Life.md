@@ -100,8 +100,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/FFW5bbwaIAEOtCp.png">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/FZgIjCw.png">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Fall Wallpaper Black And White.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Get8WQn.jpeg">
