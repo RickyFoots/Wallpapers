@@ -32,8 +32,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/1jznxzg7jaw81.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/2 - DEl93OU-dark.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/2 - DEl93OU.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/2.jpg">
