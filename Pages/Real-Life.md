@@ -426,8 +426,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/flowers.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/fog-forest-1.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/fog-forest-2.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/fog-forest.png">
