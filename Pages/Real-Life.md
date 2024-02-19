@@ -406,8 +406,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/faded-mountains.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/fear.png">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/federico-di-dio-photography-EiFLZuM2Quw-unsplash.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/flamingo_birds_pond.jpg">

@@ -404,4 +404,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/yxzrIJv.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/fear.png">
+
 [Back to top](#Top)
