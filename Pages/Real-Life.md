@@ -214,8 +214,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/annie-spratt-x8R2oSWZRSE-unsplash.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/anthony-delanoix-Aa8_X_YgrO4-unsplash.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/architecture-upwards.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/archlabs.jpg">
