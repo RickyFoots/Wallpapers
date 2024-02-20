@@ -5,9 +5,7 @@
 </h1>
 
 - [Floral](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Floral.md)
-
 - [Rural](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Rural.md)
-
 - [Urban](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Urban.md)
 
 ## Wallpapers
