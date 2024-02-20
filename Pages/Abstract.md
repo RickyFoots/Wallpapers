@@ -148,4 +148,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Burning-Smile.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/20230111_145308.png">
+
 [Back to top](#Top)
