@@ -2,6 +2,10 @@
 
 [Back to Home](https://github.com/RickyFoots/Wallpapers/tree/main)
 
+- [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
+
+## Wallpapers
+
 </h1>
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/00034.png">
