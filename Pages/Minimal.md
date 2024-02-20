@@ -430,4 +430,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/blossom-sword.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/ryoji-iwata-jxn929uiwYs-unsplash.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/sails.jpg">
+
 [Back to top](#Top)

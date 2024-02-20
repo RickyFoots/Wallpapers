@@ -810,4 +810,54 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept623d.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Architecture.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Bossfight_In_The_Snow.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/car-at-sunset.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Curious_Looking_Grave_Shrine.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Daily_Sketches.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Feudal_Japan.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Frogurai.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/gaelle-seguillon-kyoryu-sakuras-fight-1.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/gaelle-seguillon-kyoryu-sakuras-fight-2.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Goddess.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Japan_Night.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Japanese_Manhole.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/kanagawa-inverted-darker.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Looking_over_the_Waves.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Painted_Waves.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/pop-japan.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Red_Leaf_Valley.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Secret_hangout.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Sorcerer_Fight.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Street.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Street_Night.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/togusa.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/togusa-dark.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Watching_From_Above.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/trees-1.png">
+
 [Back to top](#Top)

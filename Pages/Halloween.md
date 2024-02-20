@@ -8,4 +8,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Seasonal/Halloween/here-comes-mr-pumpkin.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Seasonal/Halloween/bat-swarm.jpg">
+
 [Back to top](#Top)
