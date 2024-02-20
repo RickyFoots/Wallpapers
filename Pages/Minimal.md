@@ -412,4 +412,22 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/klim-musalimov-QvEG1o0YmsA-unsplash.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/8dfa5f3.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/8zsFsVT.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/9Gu4QSa.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/1608ee9.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/1080605.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/2383423.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/20200425_183123.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/1638316124344.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/blossom-sword.jpg">
+
 [Back to top](#Top)
