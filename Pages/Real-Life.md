@@ -10,7 +10,7 @@
 
 - [Urban](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Urban.md)
 
-</h1>
+## Wallpapers
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/0003adef2077d0934e691e48482106df.jpg">
 
