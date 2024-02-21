@@ -28,6 +28,7 @@ Thank you<br>
 
   <details>
   <summary>Abstract</summary>
+
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
   </details>
@@ -36,6 +37,7 @@ Thank you<br>
 
   <details>
   <summary>Anime & Manga</summary>
+
   - [Anime & Manga](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-&-Manga.md)
     - [Akira](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Akira.md)
     - [Attack on Titan](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Attack-on-Titan.md)
@@ -68,6 +70,7 @@ Thank you<br>
 
   <details>
   <summary>Fantasy</summary>
+
   - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
     - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
   </details>
@@ -83,6 +86,7 @@ Thank you<br>
 
   <details>
   <summary>Real Life</summary>
+
   - [Real Life](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Real-Life.md)
     - [Floral](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Floral.md)
     - [Rural](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Rural.md)
@@ -91,6 +95,7 @@ Thank you<br>
 
   <details>
   <summary>Seasonal</summary>
+
   - [Seasonal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Seasonal.md)
     - [Fall](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fall.md)
     - [Halloween](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Halloween.md)
@@ -104,6 +109,7 @@ Thank you<br>
 
   <details>
   <summary>Video Games</summary>
+  
   - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
     - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
     - [Apex](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Apex.md)
