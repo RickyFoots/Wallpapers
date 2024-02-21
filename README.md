@@ -27,7 +27,7 @@ Thank you<br>
 <summary>Categories</summary>
 
   <details>
-  - <summary>Abstract</summary>
+    <summary>Abstract</summary>
 
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
@@ -36,7 +36,7 @@ Thank you<br>
   - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
   <details>
-  <summary>Anime & Manga</summary>
+    <summary>Anime & Manga</summary>
 
   - [Anime & Manga](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-&-Manga.md)
     - [Akira](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Akira.md)
