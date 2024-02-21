@@ -20,19 +20,29 @@ Thank you<br>
 
 </h1>
 
+## Top
+
 <details>
 
 <summary>Categories</summary>
 
 <details>
 
-<summary>Categories - 1</summary>
-
-## Top
+<summary>Abstract</summary>
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
+
+<details>
+
+<summary>Animated</summary>
+
 - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
+
+<details>
+
+<summary>Anime & Manga</summary>
+
 - [Anime & Manga](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-&-Manga.md)
   - [Akira](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Akira.md)
   - [Attack on Titan](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Attack-on-Titan.md)
