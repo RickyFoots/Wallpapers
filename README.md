@@ -102,7 +102,7 @@ Thank you<br>
   - [Unclaimed-SiFi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unclaimed-SiFi.md)
   - [Unsorted Vertical](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Vertical.md)
 
- - <details> <summary>Video Games</summary>
+ - <details> <summary> [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md) </summary>
 
     - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
       - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
