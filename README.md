@@ -26,12 +26,11 @@ Thank you<br>
 
 <summary>Categories</summary>
 
-  - <Abstract>
-  <summary>Abstract</summary>
+  - <details><summary>Abstract</summary>
 
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
-  </Abstract>
+  </details>
 
   - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
