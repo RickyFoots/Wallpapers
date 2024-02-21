@@ -24,6 +24,10 @@ Thank you<br>
 
 <summary>Categories</summary>
 
+<details>
+
+<summary>Categories - 1</summary>
+
 ## Top
 
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
