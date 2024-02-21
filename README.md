@@ -26,8 +26,8 @@ Thank you<br>
 
 <summary>Categories</summary>
 
-  <details>
-  <summary>Abstract</summary>
+  - <details>
+  - <summary>Abstract</summary>
 
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
@@ -109,7 +109,7 @@ Thank you<br>
 
   <details>
   <summary>Video Games</summary>
-  
+
   - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
     - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
     - [Apex](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Apex.md)
