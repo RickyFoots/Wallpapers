@@ -32,7 +32,7 @@ Thank you<br>
       - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md) 
     </details>
 
-  - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
+    - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
   - <details> <summary>Anime & Manga</summary>
 
@@ -72,14 +72,14 @@ Thank you<br>
       - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
     </details>
 
-  - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
-  - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
-  - [Mecha](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Mecha.md)
-  - [Memes](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Memes.md)
-  - [Minimal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Minimal.md)
-  - [Monochrome - Art](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monochrome-Art.md)
-  - [Painting](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Painting.md)
-  - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
+    - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
+    - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
+    - [Mecha](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Mecha.md)
+    - [Memes](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Memes.md)
+    - [Minimal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Minimal.md)
+    - [Monochrome - Art](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monochrome-Art.md)
+    - [Painting](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Painting.md)
+    - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
 
  - <details> <summary>Real Life</summary>
 
@@ -99,8 +99,8 @@ Thank you<br>
       - [Winter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Winter.md)
     </details>
 
-  - [Unclaimed-SiFi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unclaimed-SiFi.md)
-  - [Unsorted Vertical](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Vertical.md)
+    - [Unclaimed-SiFi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unclaimed-SiFi.md)
+    - [Unsorted Vertical](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Vertical.md)
 
  - <details> <summary>Video Games</summary>
 
