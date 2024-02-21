@@ -26,6 +26,8 @@ Thank you<br>
 
 <summary>Categories</summary>
 
+</details>
+
 <details>
 
 <summary>Abstract</summary>
@@ -33,13 +35,9 @@ Thank you<br>
 - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
   - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
 
-<details>
-
-<summary>Animated</summary>
+</details>
 
 - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
-
-</details>
 
 <details>
 
