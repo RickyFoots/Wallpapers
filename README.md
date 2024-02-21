@@ -39,6 +39,8 @@ Thank you<br>
 
 - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
+</details>
+
 <details>
 
 <summary>Anime & Manga</summary>
@@ -71,6 +73,9 @@ Thank you<br>
   - [Tokyo Ghoul](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Tokyo-Ghoul.md)
   - [Trigun](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Trigun.md)
   - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
+
+</details>
+
 - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
   - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
 - [Japan](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Japan.md)
