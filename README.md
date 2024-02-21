@@ -20,7 +20,7 @@ Thank you<br>
 
 </h1>
 
-## Top
+## Categories
 
 <details>
 
@@ -129,11 +129,5 @@ Thank you<br>
       - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Wayfinder.md)
       - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Witcher.md)
     </details>
-
-</h1>
-
-[Back to top](#Top)
-
-</details>
 
 
