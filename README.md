@@ -81,57 +81,54 @@ Thank you<br>
   - [Painting](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Painting.md)
   - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
 
-  <details>
-  <summary>Real Life</summary>
+ - <details> <summary>Real Life</summary>
 
-  - [Real Life](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Real-Life.md)
-    - [Floral](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Floral.md)
-    - [Rural](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Rural.md)
-    - [Urban](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Urban.md)
-  </details>
+    - [Real Life](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Real-Life.md)
+      - [Floral](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Floral.md)
+      - [Rural](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Rural.md)
+      - [Urban](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Urban.md)
+    </details>
 
-  <details>
-  <summary>Seasonal</summary>
+ - <details> <summary>Seasonal</summary>
 
-  - [Seasonal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Seasonal.md)
-    - [Fall](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fall.md)
-    - [Halloween](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Halloween.md)
-    - [Spring](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Spring.md)
-    - [Summer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Summer.md)
-    - [Winter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Winter.md)
-  </details>
+    - [Seasonal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Seasonal.md)
+      - [Fall](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fall.md)
+      - [Halloween](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Halloween.md)
+      - [Spring](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Spring.md)
+      - [Summer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Summer.md)
+      - [Winter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Winter.md)
+    </details>
 
   - [Unclaimed-SiFi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unclaimed-SiFi.md)
   - [Unsorted Vertical](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Vertical.md)
 
-  <details>
-  <summary>Video Games</summary>
+ - <details> <summary>Video Games</summary>
 
-  - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
-    - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
-    - [Apex](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Apex.md)
-    - [Castlevania](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Castlevania.md)
-    - [COD](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/COD.md)
-    - [Cult of the Lamb](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Cult-of-the-Lamb.md)
-    - [Destiny](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Destiny.md)
-    - [DOOM](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/DOOM.md)
-    - [God of War](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/God-of-War.md)
-    - [Hotline Miami](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hotline-Miami.md)
-    - [Hyper Light Drifter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hyper-Light-Drifter.md)
-    - [Kirby](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kirby.md)
-    - [League](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/League.md)
-    - [Monster Hunter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monster-Hunter.md)
-    - [Necropolis](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Necropolis.md)
-    - [Nier](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Nier.md)
-    - [Pokemon](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pokemon.md)
-    - [Shadow of the Colossus](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Shadow-of-the-Colossus.md)
-    - [Souls-Bourne](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Souls-Bourne.md)
-    - [Stardew](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Stardew.md)
-    - [Starfield](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Starfield.md)
-    - [Ultrakill](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Ultrakill.md)
-    - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Wayfinder.md)
-    - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Witcher.md)
-  </details>
+    - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
+      - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
+      - [Apex](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Apex.md)
+      - [Castlevania](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Castlevania.md)
+      - [COD](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/COD.md)
+      - [Cult of the Lamb](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Cult-of-the-Lamb.md)
+      - [Destiny](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Destiny.md)
+      - [DOOM](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/DOOM.md)
+      - [God of War](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/God-of-War.md)
+      - [Hotline Miami](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hotline-Miami.md)
+      - [Hyper Light Drifter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hyper-Light-Drifter.md)
+      - [Kirby](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kirby.md)
+      - [League](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/League.md)
+      - [Monster Hunter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monster-Hunter.md)
+      - [Necropolis](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Necropolis.md)
+      - [Nier](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Nier.md)
+      - [Pokemon](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pokemon.md)
+      - [Shadow of the Colossus](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Shadow-of-the-Colossus.md)
+      - [Souls-Bourne](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Souls-Bourne.md)
+      - [Stardew](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Stardew.md)
+      - [Starfield](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Starfield.md)
+      - [Ultrakill](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Ultrakill.md)
+      - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Wayfinder.md)
+      - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Witcher.md)
+    </details>
 
 </h1>
 
