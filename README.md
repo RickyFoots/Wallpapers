@@ -26,7 +26,7 @@ Thank you<br>
 
 <summary>Categories</summary>
 
-  - <details>
+  <details>
   - <summary>Abstract</summary>
 
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
