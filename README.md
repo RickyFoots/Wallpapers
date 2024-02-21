@@ -32,7 +32,7 @@ Thank you<br>
       - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md) 
     </details>
     - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
-
+    
   - <details> <summary>Anime & Manga</summary>
 
     - [Anime & Manga](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-&-Manga.md)
