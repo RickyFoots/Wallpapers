@@ -66,12 +66,11 @@ Thank you<br>
       - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
     </details>
 
-  <details>
-  <summary>Fantasy</summary>
+ - <details> <summary>Fantasy</summary>
 
-  - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
-    - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
-  </details>
+    - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
+      - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
+    </details>
 
   - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
   - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
