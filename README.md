@@ -28,8 +28,9 @@ Thank you<br>
 
   - <details> <summary>Abstract</summary>
 
-  - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
-    - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md) </details>
+    - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
+     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md) 
+    </details>
 
   - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
