@@ -34,7 +34,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Monochrome - Art/20220327_2053_Inktober_Day_10__Pattern_.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Monochrome - Art/20220327_2053_Inktober_Prompt_#12_'Dragon'.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Monochrome - Art/20220327_2053_Inktober_Prompt_12_Dragon.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Monochrome - Art/20220327_2053_Inktober__Snow__and__Coat_.jpg">
 
