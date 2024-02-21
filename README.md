@@ -26,22 +26,16 @@ Thank you<br>
 
 <summary>Categories</summary>
 
-
   <details>
-
   <summary>Abstract</summary>
-
   - [Abstract](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Abstract.md)
     - [Waves](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Waves.md)
-
   </details>
 
   - [Animated](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animated.md)
 
   <details>
-
   <summary>Anime & Manga</summary>
-
   - [Anime & Manga](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-&-Manga.md)
     - [Akira](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Akira.md)
     - [Attack on Titan](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Attack-on-Titan.md)
@@ -70,16 +64,12 @@ Thank you<br>
     - [Tokyo Ghoul](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Tokyo-Ghoul.md)
     - [Trigun](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Trigun.md)
     - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
-
   </details>
 
   <details>
-
   <summary>Fantasy</summary>
-
   - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
     - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
-
   </details>
 
   - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
@@ -92,36 +82,28 @@ Thank you<br>
   - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
 
   <details>
-
   <summary>Real Life</summary>
-
   - [Real Life](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Real-Life.md)
     - [Floral](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Floral.md)
     - [Rural](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Rural.md)
     - [Urban](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Urban.md)
-
   </details>
 
   <details>
-
   <summary>Seasonal</summary>
-
   - [Seasonal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Seasonal.md)
     - [Fall](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fall.md)
     - [Halloween](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Halloween.md)
     - [Spring](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Spring.md)
     - [Summer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Summer.md)
     - [Winter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Winter.md)
-
   </details>
 
   - [Unclaimed-SiFi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unclaimed-SiFi.md)
   - [Unsorted Vertical](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Vertical.md)
 
   <details>
-
   <summary>Video Games</summary>
-
   - [Video Games](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Video-Games.md)
     - [Animal Crossing](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Animal-Crossing.md)
     - [Apex](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Apex.md)
@@ -146,7 +128,6 @@ Thank you<br>
     - [Ultrakill](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Ultrakill.md)
     - [Wayfinder](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Wayfinder.md)
     - [Witcher](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Witcher.md)
-
   </details>
 
 </h1>
