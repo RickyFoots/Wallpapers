@@ -74,8 +74,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/andrea-ferrario-3BfFa7rwqwM-unsplash.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/andrey-konstantinov-drir5tDCWF4-unsplash.jpg">
-
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/annie-spratt-x8R2oSWZRSE-unsplash.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/archlabs.jpg">

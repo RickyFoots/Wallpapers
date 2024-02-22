@@ -66,4 +66,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/weird-duck.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/andrey-konstantinov-drir5tDCWF4-unsplash.jpg">
+
 [Back to top](#Top)
