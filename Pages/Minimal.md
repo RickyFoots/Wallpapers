@@ -434,4 +434,18 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/sails.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/SONY_Dynamicron_T-120_DARK_5K.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/supra_on_black.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/mazda-on-white.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/mazda-on-white-no-sun.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/Burning_Earth.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/bored.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/boreddark.png">
+
 [Back to top](#Top)

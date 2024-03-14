@@ -18,6 +18,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/arch_purple.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/Arch_Wallpaper.png">
+
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/awesome.png">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/catppuccin-rainbow-arch.png">
@@ -25,5 +27,9 @@
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/xfce-4.18-final.png">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/Xfce-4.18_leaf_mouse.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/tcl-tk1.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Linux/tcl-tk2.png">
 
 [Back to top](#Top)

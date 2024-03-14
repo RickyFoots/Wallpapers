@@ -50,4 +50,12 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Animated/noon_colored_pixelated.gif">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Animated/1657743253389.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Animated/cc04.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Animated/ccGBCM1.gif">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Animated/station.gif">
+
 [Back to top](#Top)

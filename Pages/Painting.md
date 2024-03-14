@@ -860,4 +860,28 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/trees-1.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/1898_The_Forest_Clearing.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/a_land_forgotten_by_the_gods_by_shirokitsunegami.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Animegirl-by-Water.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/Birch_groove_1885-1889.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/hiroshinagai.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/hiroshinagai2.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept635.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept636.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept637.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept638-8.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept641.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Painting/philipp-a-urlich-cpncept642.jpg">
+
 [Back to top](#Top)

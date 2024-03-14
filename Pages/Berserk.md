@@ -24,4 +24,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Anime %26 Manga/Berserk/rGT0dFr.jpeg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Anime %26 Manga/Berserk/guts-5k-berserk.jpg">
+
 [Back to top](#Top)

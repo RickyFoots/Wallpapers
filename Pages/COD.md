@@ -6,4 +6,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/COD/20231216_181141.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/COD/COD.jpg">
+
 [Back to top](#Top)

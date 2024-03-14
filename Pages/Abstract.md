@@ -154,4 +154,12 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/20230111_145308.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/hiroshi-nagai.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/image.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Paint-Abstract-Purple.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Plain-Abstract.jpg">
+
 [Back to top](#Top)

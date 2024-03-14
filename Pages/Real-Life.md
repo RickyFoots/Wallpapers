@@ -68,4 +68,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/andrey-konstantinov-drir5tDCWF4-unsplash.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Racecar.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Racecar-Schematics.png">
+
 [Back to top](#Top)
