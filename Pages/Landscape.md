@@ -4,6 +4,6 @@
 
 </h1>
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital%20%Art/Landscape/">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Landscape/">
 
 [Back to top](#Top)

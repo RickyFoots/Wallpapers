@@ -11,6 +11,6 @@
 
 </h1>
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital%20%Art/">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/">
 
 [Back to top](#Top)

@@ -4,6 +4,6 @@
 
 </h1>
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital%20%Art/Anime%20%Inspired/">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Anime Inspired/">
 
 [Back to top](#Top)
