@@ -162,4 +162,10 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Plain-Abstract.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/grasp.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/soothe.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/split.jpg">
+
 [Back to top](#Top)

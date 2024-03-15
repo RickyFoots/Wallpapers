@@ -96,4 +96,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/Lugia-Above.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Pokemon/00245.png">
+
 [Back to top](#Top)

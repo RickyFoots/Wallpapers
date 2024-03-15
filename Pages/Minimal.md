@@ -448,4 +448,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/boreddark.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/spooky_spill.jpg">
+
 [Back to top](#Top)

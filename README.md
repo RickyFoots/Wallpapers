@@ -66,6 +66,15 @@ Thank you<br>
       - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
     </details>
 
+ - <details> <summary>Digital Art</summary>
+
+    - [Digital Art](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Digital-Art.md)
+      - [Anime Inspired](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Anime-Inspired.md)
+      - [Landscape](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Landscape.md)
+      - [Monochrome](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monochrome.md)
+      - [Traditional](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Traditional.md)
+    </details>
+
  - <details> <summary>Fantasy</summary>
 
     - [Fantasy](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Fantasy.md)
@@ -77,8 +86,6 @@ Thank you<br>
     - [Mecha](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Mecha.md)
     - [Memes](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Memes.md)
     - [Minimal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Minimal.md)
-    - [Monochrome - Art](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Monochrome-Art.md)
-    - [Painting](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Painting.md)
     - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
 
  - <details> <summary>Real Life</summary>
