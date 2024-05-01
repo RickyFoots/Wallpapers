@@ -81,7 +81,7 @@ Thank you<br>
       - [D&D](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/D&D.md)
     </details>
 
-    - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-&-Monsters.md)
+    - [Kaiju & Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-Monsters.md)
     - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
     - [Mecha](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Mecha.md)
     - [Memes](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Memes.md)
