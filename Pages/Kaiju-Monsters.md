@@ -26,7 +26,7 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju %26 Monsters/20230402_2313_強化骨格：GOOD_FOR_HEALTH.jpg">
 
-<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju %26 Monsters/20231002_1139_👹_Enhanced_Skeleton___Print_💀.jpg">
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju %26 Monsters/Enhanced_Skeleton_Print.jpg">
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju %26 Monsters/20231009_2300_Yaoguai (1).jpg">
 
