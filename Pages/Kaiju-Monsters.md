@@ -46,4 +46,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju%20-%20Monsters/wp9680194-kaiju-no8-wallpapers.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Kaiju%20-%20Monsters/117542401_p0.png">
+
 [Back to top](#Top)
