@@ -78,4 +78,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/kanistra-studio-20-workplace1.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/Pixel_Berserk.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Pixel/pixelart_pokemon_rayquaza_forest.png">
+
 [Back to top](#Top)

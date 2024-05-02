@@ -220,4 +220,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Anime Inspired/yhaucvz246161.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Anime Inspired/anime-girl-and-dog-bound-by-loyalty-and-oath-8f-3840x2160.jpg">
+
 [Back to top](#Top)

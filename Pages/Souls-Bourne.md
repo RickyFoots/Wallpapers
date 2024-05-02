@@ -32,4 +32,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Souls-Bourne/Final-Boss.jpeg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video Games/Souls-Bourne/Artorius.jpg">
+
 [Back to top](#Top)

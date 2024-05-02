@@ -59,4 +59,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/togusa.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/77vr5tbukv561.png">
+
 [Back to top](#Top)

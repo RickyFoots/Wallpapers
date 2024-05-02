@@ -450,4 +450,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/spooky_spill.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Minimal/mono_pika.png">
+
 [Back to top](#Top)

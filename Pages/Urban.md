@@ -226,4 +226,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Urban/xianyu-hao-7F2C4c0nioo-unsplash.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Urban/Cars_in_Alley.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Urban/Pelican_by_the_sea.png">
+
 [Back to top](#Top)

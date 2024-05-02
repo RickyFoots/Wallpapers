@@ -42,12 +42,14 @@ Thank you<br>
       - [Berserk](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Berserk.md)
       - [Black Clover](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Black-Clover.md)
       - [Bleach](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Bleach.md)
+      - [Blue Eyed Samurai](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Blue-Eyed-Samurai.md)
       - [Chainsaw Man](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Chainsaw-Man.md)
       - [Cowboy BeBop](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Cowboy-BeBop.md)
       - [Demon Slayer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Demon-Slayer.md)
       - [Dorohedoro](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Dorohedoro.md)
       - [Dragon Ball](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Dorohedoro.md)
       - [DRR](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/DRR.md)
+      - [Dungeon Meshi](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Dungeon-Meshi.md)
       - [Edge Runners](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Edge-Runners.md)
       - [Eva](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Eva.md)
       - [FMAB](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/FMAB.md)
@@ -64,6 +66,13 @@ Thank you<br>
       - [Tokyo Ghoul](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Tokyo-Ghoul.md)
       - [Trigun](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Trigun.md)
       - [Unsorted Manga or Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Unsorted-Manga-or-Comics.md)
+    </details>
+
+ - <details> <summary>Comics</summary>
+
+    - [Comics](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Comics.md)
+      - [Batman](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Batman.md)
+      - [Spiderman](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Spiderman.md)
     </details>
 
  - <details> <summary>Digital Art</summary>
@@ -83,7 +92,13 @@ Thank you<br>
 
     - [Kaiju - Monsters](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kaiju-Monsters.md)
     - [Linux](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Linux.md)
+
+ - <details> <summary>Mecha</summary>
+
     - [Mecha](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Mecha.md)
+      - [Lancer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Lancer.md)
+    </details>
+
     - [Memes](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Memes.md)
     - [Minimal](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Minimal.md)
     - [Pixel](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Pixel.md)
@@ -120,6 +135,7 @@ Thank you<br>
       - [Destiny](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Destiny.md)
       - [DOOM](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/DOOM.md)
       - [God of War](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/God-of-War.md)
+      - [Helldivers](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Helldivers.md)
       - [Hotline Miami](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hotline-Miami.md)
       - [Hyper Light Drifter](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Hyper-Light-Drifter.md)
       - [Kirby](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Kirby.md)

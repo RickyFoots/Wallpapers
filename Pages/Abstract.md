@@ -168,4 +168,12 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/split.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/chdz3ej24v571.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Illumanati.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/stupidgiant_skeleton_wide.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Block_Wave_Night.png">
+
 [Back to top](#Top)

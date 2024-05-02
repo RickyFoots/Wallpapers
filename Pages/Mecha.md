@@ -2,6 +2,8 @@
 
 [Back to Home](https://github.com/RickyFoots/Wallpapers/tree/main)
 
+- [Lancer](https://github.com/RickyFoots/Wallpapers/blob/main/Pages/Lancer.md)
+
 </h1>
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Mecha/10 - LlzdKCE.jpg">

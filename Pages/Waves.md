@@ -14,4 +14,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Waves/wp5998347-retro-4k-wallpapers.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Abstract/Waves/DesertSunset.jpg">
+
 [Back to top](#Top)

@@ -214,4 +214,8 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Landscape/woman-by-sea.png">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Landscape/Cloudsday.jpg">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Digital Art/Landscape/ismail-inceoglu-thinnest-crescent-moon.jpeg">
+
 [Back to top](#Top)

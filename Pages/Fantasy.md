@@ -142,4 +142,10 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection//Fantasy/wallhaven-7pezo9.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection//Fantasy/forestWarrior.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection//Fantasy/Jonas Spahr Getting Ready For Work.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection//Fantasy/wallhaven-3le1e9.png">
+
 [Back to top](#Top)

@@ -8,4 +8,6 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/COD/COD.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Video%20Games/COD/ghost.png">
+
 [Back to top](#Top)

@@ -500,4 +500,10 @@
 
 <img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/yves-moret-beRoJB9vZkE-unsplash.jpg">
 
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/1323467.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/archShrine.png">
+
+<img src="https://github.com/RickyFoots/Wallpapers/blob/main/Collection/Real Life/Rural/Clifside_Forest.png">
+
 [Back to top](#Top)
